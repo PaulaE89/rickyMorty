@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+
+.card{
+
+    margin: 1rem;
+
+    border: 10px solid;
+
+
+
+}
